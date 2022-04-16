@@ -1,7 +1,8 @@
-# Sample App Boilerplate
+# React | Typescript | Prettier | Lint-staged | Storybook | Atomic Design | ServiceWorker | React query | Tailwind
 
 
-Sample App Boilerplate helps devs to kickstart a react app with opioniated defaults. This app uses:
+This more of like a React-MVP-Starter but can be easily extended to support a production app.
+This boilerplate helps devs to kickstart a react app with opioniated defaults. This app uses:
 
 - Storybook for isolated component development
 - tailwind for css
