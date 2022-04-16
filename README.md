@@ -1,6 +1,5 @@
 # Sample App Boilerplate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Sample App Boilerplate helps devs to kickstart a react app with opioniated defaults. This app uses:
 
@@ -12,6 +11,8 @@ Sample App Boilerplate helps devs to kickstart a react app with opioniated defau
 - URL Stored state for easy bookmarking the results
 - Atomic design for easy maintenance and onboarding of devs
 - Lint staged and prettier for style guidelines
+
+This project was bootstrapped from [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
